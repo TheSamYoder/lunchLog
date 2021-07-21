@@ -1,4 +1,5 @@
 # lunchLog
+Nothing
 a cheeseburger, and a handful of goldfish crackers
 
 macaroni salad
